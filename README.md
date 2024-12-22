@@ -6,3 +6,4 @@ The master-slave module collects data from the environment and sends its data to
 The HUB receives data from the master slaves and displays them on a web server created by the ESP32.
 The moment the mentioned parameters crosses the threshold value the buzzer will go off and notify the master-slave and the HUB module with an alarming message.
 Upload the sketches in Arduino IDE and upload them in the respective ESP32 modules
+(PURELY A PROTOTYPE NOT READY FOR USE)
