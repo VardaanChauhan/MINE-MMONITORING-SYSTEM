@@ -1,0 +1,4 @@
+THE HUB - 1 ESP32 microcontroller
+THE Master-Slave - 1 ESP32 microcontroller, 1 MQ2 and 1 DHT22 sensor
+THE Slave - 1 ESP32 microcontroller, 1 MQ2 and 1 DHT22 sensor , Buzzer
+Jumper wires if using breadboards
